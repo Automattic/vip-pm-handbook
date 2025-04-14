@@ -21,3 +21,14 @@ This document outlines how data-driven decision making is implemented at WordPre
 This document outlines how user-centered design principles are applied at WordPress VIP.
 
 *Add content here about user-centered design methodologies used at WordPress VIP.*
+
+### Writing Clear and Concise Product Specs
+
+This document outlines best practices for writing clear and concise product specifications at WordPress VIP.
+
+*Add content here about writing effective product specifications.*
+### Maintaining Documentation
+
+This document outlines best practices for maintaining product documentation at WordPress VIP.
+
+*Add content here about documentation maintenance strategies.*

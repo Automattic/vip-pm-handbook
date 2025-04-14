@@ -6,16 +6,13 @@ Explore the tools and technologies that support product management at WordPress 
 This document outlines the communication tools used at WordPress VIP for product management.
 
 *Add content here about communication tools like P2, Slack, and IRC.*
-### Project Threads
 
-This document outlines how project threads are used for product management at WordPress VIP.
+### Linear
 
-*Add content here about project threads and their role in product management.*
-### Release Plans
+### Projects 
+#### Release Plans
 
-This document outlines how release plans are created and managed at WordPress VIP.
-
-*Add content here about release planning methodologies.*
+### P2
 
 ### Analytics and User Feedback Platforms
 

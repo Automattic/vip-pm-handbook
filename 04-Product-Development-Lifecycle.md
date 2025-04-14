@@ -2,19 +2,6 @@
 
 This section details the stages of the product development lifecycle at WordPress VIP, from ideation to launch. Discover our processes, activities, and artifacts that ensure successful product delivery.
 
-### Discover
-
-### Design
-
-
-### Develop
-
-### Deliver
-
-### Activities and Artifacts
-
-During the different phases there are some key activities we expect you to perform, at minimum, and some artifacts you will produce, own, and update. 
-
 - **Continuous**
   - **Activities**
     1. Customer and user interviews
@@ -25,8 +12,11 @@ During the different phases there are some key activities we expect you to perfo
   - **Artifacts**
     1. Interview summary posts
     2. Adoption and outcomes summary posts
-- **During discover**
-  - **Activities**
+
+### Discover
+
+#### Activities and Artifacts
+- **Activities**
     1. Talk to the business (CS, RMs, sales, engineering, and beyond)
     2. Understand customer behavior through metrics and analytics
     3. Understand our market
@@ -34,8 +24,11 @@ During the different phases there are some key activities we expect you to perfo
     1. Discovery summary posts
     2. Outcome and impact analysis (once something has been delivered)
     3. Competitor reviews
-- **During define**
-  - **Activities**
+
+### Define
+
+#### Activities and Artifacts
+- **Activities**
     1. Align: Agree the business impact with the CTO, the division, and the product team
     2. Hypothesize product outcomes to drive the business impact
     3. Coverage ideas: Collaborate with designers and engineers on solutions
@@ -44,8 +37,11 @@ During the different phases there are some key activities we expect you to perfo
   - **Artifacts**
     1. A Plan post, regularly updated and revised where necessary
     2. (PR)FAQ that explains why this is worth building
-- **During develop**
-  - **Activities**
+
+### Develop
+
+#### Activities and Artifacts
+- **Activities**
     1. As you approach each milestone devise a project plan to meet it
     2. Write a Project Thread of steps to achieve the milestone and update it regularly
     3. Understand progress against our plan
@@ -56,7 +52,11 @@ During the different phases there are some key activities we expect you to perfo
        3. Definition of not worth doing anymore
        4. Goals: what success looks like and what failure looks like
     2. Commits and updates 
-- **During deliver**
+
+### Deliver
+
+#### Activities and Artifacts
+
   - **Activities**
     1. Plan the release and agree the release plan 
     2. Lead the team through the release plan
