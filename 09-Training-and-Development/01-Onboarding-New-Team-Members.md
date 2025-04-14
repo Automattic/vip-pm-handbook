@@ -1,5 +1,5 @@
-# Onboarding New Team Members
+### Onboarding New Team Members
 
-This document outlines the process for onboarding new team members to product management at WordPress VIP.
+This document outlines the onboarding process for new team members at WordPress VIP.
 
-*Add content here about onboarding processes and best practices.*
+*Add content here about onboarding best practices.*

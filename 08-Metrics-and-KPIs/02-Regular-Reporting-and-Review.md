@@ -1,4 +1,4 @@
-# Regular Reporting and Review
+### Regular Reporting and Review
 
 This document outlines best practices for regular reporting and review of product metrics at WordPress VIP.
 

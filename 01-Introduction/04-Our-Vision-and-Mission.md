@@ -1,4 +1,4 @@
-### Our Vision and Mission
+#### Our Vision and Mission
 
 VIP exists “to enable organizations through the power of connection”. This is our Vision.
 

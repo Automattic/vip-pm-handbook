@@ -1,5 +1,5 @@
-# Launch and Post-Launch Activities
+### Launch and Post-Launch Activities
 
-This document outlines the approach to product launches and post-launch activities at WordPress VIP.
+This document outlines launch and post-launch activities for products at WordPress VIP.
 
-*Add content here about launch and post-launch methodologies.*
+*Add content here about launch and post-launch activities.*

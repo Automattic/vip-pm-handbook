@@ -1,5 +1,5 @@
-# Recommended Training
+### Recommended Training
 
 This document outlines recommended training for product managers at WordPress VIP.
 
-*Add content here about recommended training programs, courses, and resources.*
+*Add content here about recommended training programs or materials.*

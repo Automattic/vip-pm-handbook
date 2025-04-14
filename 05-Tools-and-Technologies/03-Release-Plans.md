@@ -1,4 +1,4 @@
-# Release Plans
+### Release Plans
 
 This document outlines how release plans are created and managed at WordPress VIP.
 

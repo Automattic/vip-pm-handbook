@@ -1,4 +1,4 @@
-# User-Centered Design
+### User-Centered Design
 
 This document outlines how user-centered design principles are applied at WordPress VIP.
 

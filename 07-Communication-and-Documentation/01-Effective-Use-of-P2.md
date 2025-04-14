@@ -1,4 +1,4 @@
-# Effective Use of P2
+### Effective Use of P2
 
 This document outlines best practices for using P2 for product management communication at WordPress VIP.
 

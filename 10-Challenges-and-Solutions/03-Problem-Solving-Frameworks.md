@@ -1,5 +1,5 @@
-# Problem-Solving Frameworks
+### Problem-Solving Frameworks
 
-This document outlines problem-solving frameworks used by product managers at WordPress VIP.
+This document outlines frameworks for solving product management challenges at WordPress VIP.
 
-*Add content here about problem-solving frameworks and methodologies.*
+*Add content here about problem-solving frameworks.*

@@ -1,4 +1,4 @@
-### The PM Loop
+#### The PM Loop
 
 - **Discover** – *The PM must understand the jobs to be done, pains, joys, and frustrations for customers and our business, they must also foster this understanding within the team and across the company*
 - **Define** – *The PM must work with the team to help generate and define solutions that delight customers and work for our business and theirs*

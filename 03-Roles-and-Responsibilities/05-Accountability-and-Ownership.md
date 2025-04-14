@@ -1,5 +1,5 @@
-# Accountability and Ownership
+### Accountability and Ownership
 
-This document discusses the principles of accountability and ownership within product teams at WordPress VIP.
+This document outlines how accountability and ownership are fostered at WordPress VIP.
 
 *Add content here about accountability and ownership practices.*

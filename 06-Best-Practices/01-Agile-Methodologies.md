@@ -1,4 +1,4 @@
-# Agile Methodologies
+### Agile Methodologies
 
 This document outlines how agile methodologies are applied to product management at WordPress VIP.
 

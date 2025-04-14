@@ -1,4 +1,4 @@
-# Lean Product Development
+### Lean Product Development
 
 This document outlines how lean product development principles are applied at WordPress VIP.
 

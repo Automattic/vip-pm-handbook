@@ -1,5 +1,5 @@
-# Cross-Functional Collaboration
+### Cross-Functional Collaboration
 
-This document outlines how different roles collaborate across functions at WordPress VIP to deliver successful products.
+This document outlines how cross-functional collaboration works at WordPress VIP.
 
 *Add content here about cross-functional collaboration practices.*

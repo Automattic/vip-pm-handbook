@@ -1,4 +1,4 @@
-# Maintaining Documentation
+### Maintaining Documentation
 
 This document outlines best practices for maintaining product documentation at WordPress VIP.
 

@@ -1,5 +1,5 @@
-# Development and Testing
+### Development and Testing
 
-This document outlines the approach to product development and testing at WordPress VIP.
+This document outlines development and testing methodologies at WordPress VIP.
 
 *Add content here about development and testing methodologies.*

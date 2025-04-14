@@ -1,4 +1,4 @@
-# Overview of Product Management at Automattic
+### Overview of Product Management at Automattic
 
 This document provides an overview of product management practices at Automattic, specifically for WordPress VIP.
 

@@ -1,4 +1,4 @@
-# Product Managers
+### Product Managers
 
 This document outlines the roles, responsibilities, and expectations for Product Managers at WordPress VIP.
 

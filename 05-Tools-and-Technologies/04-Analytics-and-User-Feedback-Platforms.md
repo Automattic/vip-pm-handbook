@@ -1,4 +1,4 @@
-# Analytics and User Feedback Platforms
+### Analytics and User Feedback Platforms
 
 This document outlines the analytics and user feedback platforms used at WordPress VIP.
 

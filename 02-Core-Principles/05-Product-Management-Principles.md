@@ -17,4 +17,4 @@
   - Your features are adopted, and where they are not you iterate to achieve adoption.
   - You monitor the outcomes you achieve to ensure they create business impact.
 
-**To achieve all success you must be a trusted partner.** You must have the trust from your collaborators in engineering, design, and systems, from our colleagues in Customer Success, Support, the Account teams, from Systems, and from our executive leadership. Trust is your most vital attribute and will be the foundation of your effectiveness.
+To achieve all success you must be a trusted partner. You must have the trust from your collaborators in engineering, design, and systems, from our colleagues in Customer Success, Support, the Account teams, from Systems, and from our executive leadership. Trust is your most vital attribute and will be the foundation of your effectiveness.

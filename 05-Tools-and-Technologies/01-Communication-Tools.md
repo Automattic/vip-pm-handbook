@@ -1,4 +1,4 @@
-# Communication Tools (P2, Slack, IRC)
+### Communication Tools
 
 This document outlines the communication tools used at WordPress VIP for product management.
 

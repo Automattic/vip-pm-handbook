@@ -1,4 +1,4 @@
-# Data-Driven Decision Making
+### Data-Driven Decision Making
 
 This document outlines how data-driven decision making is implemented at WordPress VIP.
 

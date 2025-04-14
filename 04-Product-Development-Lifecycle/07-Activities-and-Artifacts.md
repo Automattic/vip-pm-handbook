@@ -1,4 +1,4 @@
-### Activities and Artifacts
+#### Activities and Artifacts
 
 During the different phases there are some key activities we expect you to perform, at minimum, and some artifacts you will produce, own, and update. 
 
@@ -42,7 +42,7 @@ During the different phases there are some key activities we expect you to perfo
        2. Definition of done
        3. Definition of not worth doing anymore
        4. Goals: what success looks like and what failure looks like
-    2. Commits and updates (Platform)
+    2. Commits and updates 
 - **During deliver**
   - **Activities**
     1. Plan the release and agree the release plan 
