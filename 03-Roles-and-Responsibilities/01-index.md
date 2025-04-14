@@ -1,3 +1,3 @@
 ## Roles and Responsibilities
 
-Learn about the key roles and responsibilities within WordPress VIP product teams. This section covers expectations for Product Managers, Engineers, Designers, and the importance of cross-functional collaboration and ownership.
+To achieve all success you must be a trusted partner. You must have the trust from your collaborators in engineering, design, and systems, from our colleagues in Customer Success, Support, the Account teams, from Systems, and from our executive leadership. Trust is your most vital attribute and will be the foundation of your effectiveness.

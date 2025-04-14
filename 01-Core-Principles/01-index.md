@@ -1,4 +1,10 @@
-#### Our Vision and Mission
+## Core Principles
+
+Most of the content in the product handbook talks about how we do product at WordPress VIP.
+
+This section explains the core principles that guide product management at WordPress VIP. Explore our commitment to customer-centricity, continuous learning, open source, sustainability, and the foundational principles that shape our work.
+
+### Our Vision and Mission
 
 VIP exists “to enable organizations through the power of connection”. This is our Vision.
 
