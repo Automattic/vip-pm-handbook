@@ -1,6 +1,6 @@
 ## Collaboration
 
-To achieve all success you must be a trusted partner. You must have the trust from your collaborators in engineering, design, and systems, from our colleagues in Customer Success, Support, the Account teams, from Systems, and from our executive leadership. Trust is your most vital attribute and will be the foundation of your effectiveness.
+To achieve all success you must be a trusted partner. You must have the trust from your collaborators in engineering, design, and product marketing and from our colleagues in Customer Success, Marketing, Systems, and executive leadership. Trust is your most vital attribute and will be the foundation of your effectiveness.
 
 ### Engineers
 
@@ -10,4 +10,6 @@ To achieve all success you must be a trusted partner. You must have the trust fr
 
 ### Customer Success
 
+### Systems
 
+### Executive Leadership
