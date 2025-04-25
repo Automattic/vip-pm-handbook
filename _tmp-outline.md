@@ -19,11 +19,6 @@ A temporary file outlining the whole handbook to work through ideas and assignme
   * Unafraid - how we push back
   * Collaborative - who are our partners, how do we treat them
   * Humble - what's our tone, how do we cultivate surprise
-* Metrics and KPIs
-  * Discover
-  * Design
-  * Develop
-  * Deliver
 * Practices
   * Discover
      * Customr interviews
@@ -47,3 +42,10 @@ A temporary file outlining the whole handbook to work through ideas and assignme
   * Design
   * Develop
   * Deliver
+
+## Future
+We should have these sections but I don't think we are ready yet.
+
+* Metrics and KPIs - I think we are too young to set these at present.
+* Tools and Technology - We should use tool #tags in the other parts of the handbook that link to a consolidated page, I think the build script can help with this.
+* Playbooks - We don't have these yet, but as we start to follow the handbook we should add them.
