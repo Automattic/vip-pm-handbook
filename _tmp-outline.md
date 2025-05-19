@@ -10,7 +10,7 @@ A temporary file outlining the whole handbook to work through ideas and assignme
   * Humble (I’ll remember the days before I knew everything) - we check our egos and assumptions at the door.
   * The PM Loop:
     * Discover
-      * Talk to customerss
+      * Talk to customers
       * Define the problem
     * Design
       * Create a visual representation of a solution
