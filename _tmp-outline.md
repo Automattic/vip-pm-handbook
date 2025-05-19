@@ -14,21 +14,43 @@ A temporary file outlining the whole handbook to work through ideas and assignme
     * Develop (Customer Centric, Collaborative)
     * Deliver (Unafraid, Customer Centric)
 * Expectations
- * Customer Centric - e.g. talk to customers once a week
+  * Team meetings
+  * General expectations
+  * Customer Centric - e.g. talk to customers once a week
   * Thougtful - reflect, don't act too quickly
   * Unafraid - how we push back
   * Collaborative - who are our partners, how do we treat them
+    * Engineers
+    * Designers
+    * Product Marketing Managers
+    * Customer Success
+    * Systems
+    * Executive Leadership
   * Humble - what's our tone, how do we cultivate surprise
 * Practices
   * Discover
+     * JTDB
      * Customr interviews
      * Drinking our own champagne
      * Product ideas
+     * Competitive analysis
+     * Trend report
   * Design
     * Interview summaries
+    * Project brief
+    * Working with Partners
+      * Design
+      * Engineering
+    * Pitching to the ELT
+    * Pitching to the PDC
   * Develop
-    * Projects
+    * Project
+    * Working with Partners
+      * Design
+      * Engineering
   * Deliver
+    * Feature release P2
+    * Release plan
     * Adoption reporting
   Training and Development
   * Customer Centric
