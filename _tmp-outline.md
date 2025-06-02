@@ -3,45 +3,64 @@
 A temporary file outlining the whole handbook to work through ideas and assignments.
 
 * Core Principles
-  * Customer Centric (I will build our business sustainably through passionate and loyal customers) - getting close to customers is where we start
-  * Thoughtful (I will never stop learning) - take what we hear from customers and seek to deeply understand it.
-  * Unafraid (I know there’s no such thing as a status quo) - Ship to learn, and stick it out long enough to learn.
-  * Collaborative ( I will never pass up an opportunity to help out a colleague) - We work with patners to deliver value everywhere.
-  * Humble (I’ll remember the days before I knew everything) - We will fall in love with the problem and allow ourselves to be surprised by the solution.
+  * Customer Centric (I will build our business sustainably through passionate and loyal customers) - we are partners with our customers throughout the process.
+  * Thoughtful (I will never stop learning) - we solve problems, we are not a feature factory.
+  * Unafraid (I know there’s no such thing as a status quo) - we aren't afraid to forge ahead or make the tough call to stop.
+  * Collaborative ( I will never pass up an opportunity to help out a colleague) - we are the connective tissue of VIP.
+  * Humble (I’ll remember the days before I knew everything) - we check our egos and assumptions at the door.
   * The PM Loop:
-    * Discover (Humble, Customer Centric)
-    * Design (Thoughtful, Collaborative)
-    * Develop (Customer Centric, Collaborative)
-    * Deliver (Unafraid, Customer Centric)
+    * Discover
+      * Talk to customers
+      * Define the problem
+    * Design
+      * Create a visual representation of a solution
+      * Vet it with customers who participated in discovery
+      * Iterate 
+      * Choose a customer champion
+    * Develop
+      * Deliver beta to champion
+      * Get champion on record
+    * Deliver
 * Expectations
- * Customer Centric - e.g. talk to customers once a week
+  * General expectations
+  * Team meetings
+  * Customer Centric - e.g. talk to customers once a week
   * Thougtful - reflect, don't act too quickly
   * Unafraid - how we push back
   * Collaborative - who are our partners, how do we treat them
-  * Humble - what's our tone, how do we cultivate surprise
+    * Engineers
+    * Designers
+    * Product Marketing Managers
+    * Customer Success
+    * Systems
+    * Executive Leadership
+  * Humble - what's our tone
 * Practices
   * Discover
+     * JTDB
      * Customr interviews
      * Drinking our own champagne
      * Product ideas
+     * Competitive analysis
+     * Trend report
   * Design
     * Interview summaries
+    * Project brief
+    * Working with Partners
+      * Design
+      * Engineering
+    * Pitching to the ELT
+    * Pitching to the PDC
   * Develop
-    * Projects
+    * Project
+    * Working with Partners
+      * Design
+      * Engineering
   * Deliver
+    * Feature release P2
+    * Release plan
     * Adoption reporting
-  Training and Development
-  * Customer Centric
-    * Continuous interviewing
-  * Thougtful
-  * Unafraid
-  * Collaborative
-    * Reboot
-  * Humble
-  * Discover
-  * Design
-  * Develop
-  * Deliver
+    * Training and Development
 
 ## Future
 We should have these sections but I don't think we are ready yet.
