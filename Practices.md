@@ -113,16 +113,16 @@ Consistent, high-quality updates build trust with stakeholders and reduce the ne
 
 ### Demos
 
-Demos  are essential for building organizational alignment and excitement around new features.
+Demos are essential for building organizational alignment and excitement around new features.
 
 #### VIP Town Hall Demos
 - All projects must be presented at VIP Town Hall at least once during Alpha phase.
-- PMs are responsible for preparing these demos. We will often deliver them, but we should look to give teamates an opportunity to present as well.
+- PMs are responsible for preparing these demos. We will often deliver them, but we should look to give teammates an opportunity to present as well.
 - Demos should follow this format:
-  * Problem statement and customer impact (2 min)
-  * Feature demonstration (6 min)
-  * Roadmap and next steps (2 min)
-- Demos should be clipped out of the Town Hall recording and posted as part of that weeks project update.
+  * Problem statement and customer impact (2 min).
+  * Feature demonstration (6 min).
+  * Roadmap and next steps (2 min).
+- Demos should be clipped out of the Town Hall recording and posted as part of that week's project update.
 
 #### Demo Preparation Guidelines
 - Create a dedicated test environment with realistic customer data.
@@ -131,3 +131,12 @@ Demos  are essential for building organizational alignment and excitement around
 - Practice with the product trio before presenting more widely.
 
 ## Deliver
+
+### Preparing the a8c-wide-view update
+
+Is how we communicate the general availability of a project to the broader company. Each PM is responsible for creating the update. PMs should place their update in the working document for the a8c-wide-view update. 
+
+This document is shared [#a8c-wide-view](https://a8c.slack.com/archives/CR4H79333) channel on Slack. PMs should place their draft updates by the 2nd of the month.
+
+The product team lead at VIP should review and edit these updates by the 3rd of the month. They are accountable for the final draft.
+

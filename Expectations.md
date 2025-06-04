@@ -2,13 +2,13 @@
 
 ## Unafraid
 
-> I know there’s no such thing as a status quo 
+> I know there’s no such thing as a status quo. 
 
 **We aren't afraid to forge ahead or make the tough call to stop.**
 
 ## Collaborative
 
-> I will never pass up an opportunity to help out a colleague
+> I will never pass up an opportunity to help out a colleague...
 
 **We are the connective tissue of VIP.**
 
