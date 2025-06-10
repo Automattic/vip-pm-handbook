@@ -139,3 +139,28 @@ Is how we communicate the general availability of a project to the broader compa
 This document is shared [#a8c-wide-view](https://a8c.slack.com/archives/CR4H79333) channel on Slack. PMs should place their draft updates by the 2nd of the month.
 
 The product team lead at VIP should review and edit these updates by the 3rd of the month. They are accountable for the final draft.
+
+
+### Adoption Reporting
+
+We use the TARS framework for adopition reporting. Each project has an outcome metric defined at the start of the project.
+ 
+TARS = Active Target Users → Active Adopted Users → Active Retained Users → Active Satisfied Users (% of users that were satisfied from active retained users)
+
+The outcome metric becomes the adopted metric from the framework. While this framework specifices "users" we may be more interested in customers that have adopted a feature.
+
+Before a feature launches, reporting on the target audience and adoption should be in place. Ideally a [Pendo dashboard](https://app.pendo.io/s/5636252415164416/dashboards/BGJVhKP8PJCcFqloC22iLt7GoC0) is created, but that depends on the availability of the data.
+
+Each month the PM will produce a P2 post [like these](https://vipproductp2.wordpress.com/tag/adoption-data/) to detail adoption of the new feature. These reports will continue for at least six months after general availability. They may continue longer if signficant work is being done.
+
+Satisfaction reporting should be conducted once a quarter. In the past we have used [Custer Effort Score](https://vipproductp2.wordpress.com/2024/10/03/using-customer-effort-score-ces/) and Net Promoter Score (NPS). Our CES experiment had mixed results, and conducting an NPS score on each feature would be cumbersome. This handbook will be updated as the team experiments with additional methods.
+
+The TARS framework does not provide indepth insight into what to do next. It is useful for identifying issues in the product and where those issues live. If you have high retention and low adoption that points to a particular set of questions. 
+
+P2 posts should at least highlight these questions. Ideally you have already done the reseach to have a testable hypothesis and plans for how to implement changes. If not, a clear timeline for that and a follow-up comment should be scheduled.
+
+### Process components
+
+#### Monitor
+
+Adoption Reporting is the primary tool we use to monitor a project. PMs should also monitior more granualr metrics to understand the health of the product. This should include monitioring error reporting.
