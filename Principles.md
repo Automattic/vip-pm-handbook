@@ -15,25 +15,21 @@ The team you work with understands the customers’ pains and needs because you 
 
 ## Thoughtful - I will never stop learning.
 
-* **Start from the problem:** Thoroughly understand the problem we are solving. What is the pain for our customers, what does it mean for our business? Use this as your compass throughout the process.  
-  * Document the problems we’re solving, how we validate our proposed solutions, and our findings throughout research and development.  
-  * Document how these problems are being solved elsewhere in the software market.   
-  * Partner with sales, support, and marketing to gather customer and prospect feedback at every stage of the customer journey.   
-* **Ship to learn:** Do not wait until everything is perfect to deliver or share it. Get something out, learn from customers and colleagues.  
-  * Something should be released every iteration (4 weeks). It’s the PM’s job to break down team work into smaller, iterative chunks of value for our customers.  
-  * If it’s taking longer than 4 weeks to release something to customers, it’s the PM’s job to evaluate why that is and work with the team to improve the prioritization, scoping, and development cycles.  
-  * Test early and often. Recruit your colleagues to help test new bets and features.  
-* **Deliver outcomes[^5] not outputs:** Measure the outcomes and iterate to improve impact for customers and our business.  
-  * When your teams release software, there is a change in human behavior on our platform or in our business.   
-  * Your features are adopted, and where they are not you iterate to achieve adoption.  
-  * You monitor the outcomes you achieve to ensure they create business impact.
+Fall in love with the problem we are solving. What is the pain for our customers, what does it mean for our business? Use this as your compass throughout the process.  
+  
+Do not wait until everything is perfect to deliver or share it. Get something out, learn from customers and colleagues. If there is nothing to demo, test, or otherwise give feedback on every cycle, find out why. Be curious.
 
-[^5]:  “An outcome is a change in human behavior that drives business results” from [“Outcomes over output” by Joshua Seiden](https://www.svpg.com/product-management-start-here/)
+We are in control of outcomes not outcomes not outputs. “An outcome is a change in human behavior that drives business results” from [“Outcomes over output” by Joshua Seiden](https://www.svpg.com/product-management-start-here/). This change should be measurable. While outputs aren't direcly in our control, that doesn't mean we ignore them.
 
+Every feature we support should be tied to the business needs of VIP. It should clearly affect retention, revenue, or cost. 
 
 ## Unafraid - I know there’s no such thing as a status quo. 
 
 **We aren't afraid to forge ahead or make the tough call to stop.**
+
+More often than not, a project will face a moment where it's unclear if it will work. In those moments we are unfraid to move forward. Maybe we don't have all the data we need. Maybe it's just that messy part of every project. Whatever it is, we are willing to go out on a limb and stand up for the team and the project.
+
+And we are also willing to cut that limb off if it's not working. Sometimes there is enough data. Sometimes the whole project is messy. We don't let sunk costs sink the ship.
 
 ## Collaborative - I will never pass up an opportunity to help out a colleague...
 
@@ -45,6 +41,10 @@ To achieve all success you must be a trusted partner. You must have the trust fr
 ## Humble - I’ll remember the days before I knew everything
 
 **We check our egos and assumptions at the door.**
+
+We are a stand in for the customer. That doesn't mean we leave our taste at the door. We are clear when we are representing both. We trust that customers know what they want, but that knowledge is limited. We sometimes can imagine beyond their conception.
+
+When we are in that space we are honset about it withourselves and with the team.
 
 ## The PM Loop
 
