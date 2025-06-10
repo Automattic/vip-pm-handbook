@@ -50,7 +50,7 @@ To avoid the sunk cost fallacy, we need to focus on the future costs of the proj
 
 
 ### Linear projects
-Every initiative should be represented by a project in Linear. All projects at VIP should use the VIP Project Template. This template adds to the a8c default to enable clear communication across stakeholders.
+Every initiative should be represented by a project in Linear. All projects at VIP should use the [VIP Project Template](https://linear.app/a8c/settings/teams/VIP/templates/project/349cba1d-ba01-4114-90d4-1851dd31a89c/edit). This template adds to the a8c default to enable clear communication across stakeholders.
 
 Additionally all projects should appear in the VIP Updates [pulse view](https://linear.app/a8c/pulse/view/vip-updates-8c11d4b5e16f). The template project has the correct `VIP > Updates` label, but you should double check to make sure it is in the view.
 
@@ -139,4 +139,3 @@ Is how we communicate the general availability of a project to the broader compa
 This document is shared [#a8c-wide-view](https://a8c.slack.com/archives/CR4H79333) channel on Slack. PMs should place their draft updates by the 2nd of the month.
 
 The product team lead at VIP should review and edit these updates by the 3rd of the month. They are accountable for the final draft.
-
