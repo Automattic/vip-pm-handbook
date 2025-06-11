@@ -163,4 +163,4 @@ P2 posts should at least highlight these questions. Ideally you have already don
 
 #### Monitor
 
-Adoption Reporting is the primary tool we use to monitor a project. PMs should also monitior more granualr metrics to understand the health of the product. This should include monitioring error reporting.
+Adoption Reporting is the primary tool we use to monitor a project. PMs should also monitior more granualr metrics to understand the health of the product. This should include monitioring server side error reporting.
