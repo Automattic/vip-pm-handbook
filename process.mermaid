@@ -1,0 +1,76 @@
+---
+config:
+  layout: dagre
+---
+flowchart LR
+ subgraph Discovery["Discovery"]
+        UserResearch("User Research")
+        MarketResearch("Market Research")
+        Requests("Requests")
+        IdentifiedNeed("Identified Need")
+        Prioritize("Prioritize")
+        Scope("Scope")
+        Preflight("Preflight Check")
+  end
+ subgraph Deliver["Deliver"]
+    direction LR
+        Monitor("Monitor")
+        AnnounceGA("Announce GA")
+        Maintain("Maintain")
+        Retro("Retrospective")
+        Launch("Launch")
+  end
+ subgraph DesignLoop["Design"]
+    direction TB
+        proto("Prototype")
+        rev1("PED Review")
+        user1("User Feedback")
+  end
+ subgraph Tasks["Tasks"]
+    direction TB
+        issue("Issue")
+        code("Pull Request")
+        qa("QA")
+        rev2("Code Review")
+  end
+ subgraph Cycle["Cycles"]
+    direction TB
+        sprint["Planning"]
+        dev["Development"]
+        retro["Retro"]
+        update["Update"]
+        escape["Escape Hatch"]
+  end
+ subgraph Develop["Develop"]
+        Tasks
+        Cycle
+  end
+    Discovery --> DesignLoop
+    proto --> rev1
+    rev1 --> user1
+    user1 --> proto
+    DesignLoop --> Develop
+    issue --> code
+    code --> qa
+    qa --> rev2
+    rev2 --> issue
+    sprint --> dev
+    dev --> retro
+    retro --> update
+    update --> sprint
+    Develop --> Deliver
+    MarketResearch --> IdentifiedNeed
+    UserResearch --> IdentifiedNeed
+    Requests --> IdentifiedNeed
+    IdentifiedNeed --> Prioritize
+    Prioritize --> Scope
+    Scope --> Preflight
+     Tasks:::blk
+     Cycle:::blk
+     Discovery:::gold
+     DesignLoop:::gold
+     Develop:::gold
+     Deliver:::gold
+    classDef default fill:#fff,stroke:#13191E,stroke-width:2px
+    classDef gold stroke:#D8A45F
+    classDef blk stroke:#13191E
