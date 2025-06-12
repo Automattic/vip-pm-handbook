@@ -8,11 +8,60 @@ We've defined terms in each phase below.
 
 ## Discover
 
+### Jobs to be done
+
+### Customer interviews
+
+### Champion customers
+
+### Process components
+
+#### Market research
+
+PMs need to have a pulse on the market. We can rely on our Product Marketing partners to gather general competitive analysis, but PMs should have strong opinions on what else is out there.
+
+#### User reseach
+
+To be customer centric means speaking with customers. Our primary tool here is the customer interview, but other modes of research, like one question surveys, can be helpful.
+
+#### Requests
+
+We also recieve direct requests from customers and from teammates. Each needs to be examined to determine if it is a solution to a job to be done. Some requests may look sensible on the surface, but don't address the core issue.
+
+#### Identified need
+
+Needs arise for a combination of market reseach, user research, and requests. If a need doesn't have a bit of all three we should slow down and ask more questions.
+
+This is where we should write a [product brief](https://bridgea8c.wordpress.com/2025/06/04/turning-ideas-into-products/).
+
+
+#### Prioritize
+
+Product briefs will be priortized at multiple levels. They will need approval from VIP leadership before being presented to the Product Development Committee (PDC). 
+
+#### Preflight check
+
+There are a number of steps we will complete before we start any project. They are captured in the VIP Project Template under the "Preflight" milestone. Many of these tasks will be completed in preparing the product brief.
 
 ## Design
 
-## Develop
+The PM role in the design process it to assure that the design is solving the identified job to be done and of high quality. 
+### Process components
 
+#### Prototype
+
+The first artificat of the design phase is a prototype. That could be a sketch. It could be a user story. It could be an interactive wireframe.
+
+#### PED review
+
+Each prototype is reviewed bo the Product trio (PED) before it is shared with customers. This review sharpens the prototype.
+
+#### User feedback
+
+Each prototype should be reviewed with cusotmers. PMs should idetenfify which customers are approriate, keeping in mind the specific champion customer they have chosen.
+
+
+## Develop
 
 ### Process components
 
@@ -25,7 +74,7 @@ Development happens in cycles. Different teams use different lengths, names, and
 * Retro - the product trio (PED) reviews the work and adjusts the plan for the next cycle.
 * Update - the project DRI posts updates.
 
-#### Issues
+#### Tasks
 PMs aren't just involved at the macro level; we are involved at the individual issue level to provide guidance where appropriate.
 
 * Issue - PMs should write excellent issues. We aren't the only people creating issues, but ours should follow [a8c issue guidelines](https://updateomattic.wordpress.com/2025/05/29/how-we-work-writing-issues-with-ai/).
@@ -140,7 +189,6 @@ This document is shared [#a8c-wide-view](https://a8c.slack.com/archives/CR4H7933
 
 The product team lead at VIP should review and edit these updates by the 3rd of the month. They are accountable for the final draft.
 
-
 ### Adoption Reporting
 
 We use the TARS framework for adopition reporting. Each project has an outcome metric defined at the start of the project.
@@ -164,3 +212,23 @@ P2 posts should at least highlight these questions. Ideally you have already don
 #### Monitor
 
 Adoption Reporting is the primary tool we use to monitor a project. PMs should also monitior more granualr metrics to understand the health of the product. This should include monitioring server side error reporting.
+
+#### Announce GA
+
+When a project is generally available, we should announce it to all eligible customers. We alwayscreate a post for the VIP Lobby. 
+
+The PM should also create a Pendo guide announcing the feature. This guide should promote the new feature to the defined target audience. It should be shown once per visitor and expire 90 days after general availability.
+
+PMs may also coordinate with Scaled CX for email and other communication.
+
+#### Maintain
+
+Projects require maintence. PMs should work with the engineering lead to determine Product's ongiong involvement with maintiance.
+
+#### Retrospective
+
+All projects should have a retrospective. This should be scheduled at the end of the project and should be used to identify lessons learned and areas for improvement. For large and complicated projects, consider bringing in facilitation from outside the team. The a8c Learn team can be helpful in this regard.
+
+#### Launch
+
+The Launch event is managed by the Product Marketing team. These events happen periodicially through the year and require involvement from both Product and Engineering. That involvement varies, but should be accounted for.
