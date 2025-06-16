@@ -50,11 +50,58 @@ This is an outline for a VIP Product ideas/feedback process that encompasses col
 
 ### Competitive Analysis
 
+### Customer interviews
+
+### Champion customers
+
+### Process components
+
+#### Market research
+
+PMs need to have a pulse on the market. We can rely on our Product Marketing partners to gather general competitive analysis, but PMs should have strong opinions on what else is out there.
+
+#### User reseach
+
+To be customer centric means speaking with customers. Our primary tool here is the customer interview, but other modes of research, like one question surveys, can be helpful.
+
+#### Requests
+
+We also recieve direct requests from customers and from teammates. Each needs to be examined to determine if it is a solution to a job to be done. Some requests may look sensible on the surface, but don't address the core issue.
+
+#### Identified need
+
+Needs arise for a combination of market reseach, user research, and requests. If a need doesn't have a bit of all three we should slow down and ask more questions.
+
+This is where we should write a [product brief](https://bridgea8c.wordpress.com/2025/06/04/turning-ideas-into-products/).
+
+
+#### Prioritize
+
+Product briefs will be priortized at multiple levels. They will need approval from VIP leadership before being presented to the Product Development Committee (PDC). 
+
+#### Preflight check
+
+There are a number of steps we will complete before we start any project. They are captured in the VIP Project Template under the "Preflight" milestone. Many of these tasks will be completed in preparing the product brief.
 
 ## Design
 
-## Develop
+The PM role in the design process it to assure that the design is solving the identified job to be done and of high quality. 
+### Process components
 
+#### Prototype
+
+The first artificat of the design phase is a prototype. That could be a sketch. It could be a user story. It could be an interactive wireframe.
+
+#### PED review
+
+Each prototype is reviewed bo the Product trio (PED) before it is shared with customers. This review sharpens the prototype.
+
+#### User feedback
+
+Each prototype should be reviewed with cusotmers. PMs should idetenfify which customers are approriate, keeping in mind the specific champion customer they have chosen.
+
+
+## Develop
 
 ### Process components
 
@@ -67,7 +114,7 @@ Development happens in cycles. Different teams use different lengths, names, and
 * Retro - the product trio (PED) reviews the work and adjusts the plan for the next cycle.
 * Update - the project DRI posts updates.
 
-#### Issues
+#### Tasks
 PMs aren't just involved at the macro level; we are involved at the individual issue level to provide guidance where appropriate.
 
 * Issue - PMs should write excellent issues. We aren't the only people creating issues, but ours should follow [a8c issue guidelines](https://updateomattic.wordpress.com/2025/05/29/how-we-work-writing-issues-with-ai/).
@@ -92,7 +139,7 @@ To avoid the sunk cost fallacy, we need to focus on the future costs of the proj
 
 
 ### Linear projects
-Every initiative should be represented by a project in Linear. All projects at VIP should use the VIP Project Template. This template adds to the a8c default to enable clear communication across stakeholders.
+Every initiative should be represented by a project in Linear. All projects at VIP should use the [VIP Project Template](https://linear.app/a8c/settings/teams/VIP/templates/project/349cba1d-ba01-4114-90d4-1851dd31a89c/edit). This template adds to the a8c default to enable clear communication across stakeholders.
 
 Additionally all projects should appear in the VIP Updates [pulse view](https://linear.app/a8c/pulse/view/vip-updates-8c11d4b5e16f). The template project has the correct `VIP > Updates` label, but you should double check to make sure it is in the view.
 
@@ -182,3 +229,46 @@ This document is shared [#a8c-wide-view](https://a8c.slack.com/archives/CR4H7933
 
 The product team lead at VIP should review and edit these updates by the 3rd of the month. They are accountable for the final draft.
 
+### Adoption Reporting
+
+We use the TARS framework for adopition reporting. Each project has an outcome metric defined at the start of the project.
+ 
+TARS = Active Target Users → Active Adopted Users → Active Retained Users → Active Satisfied Users (% of users that were satisfied from active retained users)
+
+The outcome metric becomes the adopted metric from the framework. While this framework specifices "users" we may be more interested in customers that have adopted a feature.
+
+Before a feature launches, reporting on the target audience and adoption should be in place. Ideally a [Pendo dashboard](https://app.pendo.io/s/5636252415164416/dashboards/BGJVhKP8PJCcFqloC22iLt7GoC0) is created, but that depends on the availability of the data.
+
+Each month the PM will produce a P2 post [like these](https://vipproductp2.wordpress.com/tag/adoption-data/) to detail adoption of the new feature. These reports will continue for at least six months after general availability. They may continue longer if signficant work is being done.
+
+Satisfaction reporting should be conducted once a quarter. In the past we have used [Custer Effort Score](https://vipproductp2.wordpress.com/2024/10/03/using-customer-effort-score-ces/) and Net Promoter Score (NPS). Our CES experiment had mixed results, and conducting an NPS score on each feature would be cumbersome. This handbook will be updated as the team experiments with additional methods.
+
+The TARS framework does not provide indepth insight into what to do next. It is useful for identifying issues in the product and where those issues live. If you have high retention and low adoption that points to a particular set of questions. 
+
+P2 posts should at least highlight these questions. Ideally you have already done the reseach to have a testable hypothesis and plans for how to implement changes. If not, a clear timeline for that and a follow-up comment should be scheduled.
+
+### Process components
+
+#### Monitor
+
+Adoption Reporting is the primary tool we use to monitor a project. PMs should also monitior more granualr metrics to understand the health of the product. This should include monitioring server side error reporting.
+
+#### Announce GA
+
+When a project is generally available, we should announce it to all eligible customers. We alwayscreate a post for the VIP Lobby. 
+
+The PM should also create a Pendo guide announcing the feature. This guide should promote the new feature to the defined target audience. It should be shown once per visitor and expire 90 days after general availability.
+
+PMs may also coordinate with Scaled CX for email and other communication.
+
+#### Maintain
+
+Projects require maintence. PMs should work with the engineering lead to determine Product's ongiong involvement with maintiance.
+
+#### Retrospective
+
+All projects should have a retrospective. This should be scheduled at the end of the project and should be used to identify lessons learned and areas for improvement. For large and complicated projects, consider bringing in facilitation from outside the team. The a8c Learn team can be helpful in this regard.
+
+#### Launch
+
+The Launch event is managed by the Product Marketing team. These events happen periodicially through the year and require involvement from both Product and Engineering. That involvement varies, but should be accounted for.
