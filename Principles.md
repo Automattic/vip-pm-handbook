@@ -1,6 +1,5 @@
 # Core Principles
 
-
 ## Customer-Centric - I will build our business sustainably through passionate and loyal customers.
 
 **We are fierce advocates for our customers throughout the process.**
@@ -44,20 +43,23 @@ To achieve all success you must be a trusted partner. You must have the trust fr
 
 We are a stand in for the customer. That doesn't mean we leave our taste at the door. We are clear when we are representing both. We trust that customers know what they want, but that knowledge is limited. We sometimes can imagine beyond their conception.
 
-When we are in that space we are honset about it withourselves and with the team.
+We don't represent our views as the customers. We don't paint our agenda on customer requests. We do share our strong opinons, but it is always clear where customer feedback stops and our views begin.
 
 ## The PM Loop
 
+The work of a PM is circular. We don't finish, we use what we learn to inform what we do next. The work is also fractal in that we repeat this loop inside itself.
+
+The loop has four steps:
+
 * Discover
-    * Talk to customers
-    * Define the problem
+    * Talk to customers.
+    * Define the problem.
 * Design
-    * Create a visual representation of a solution
-    * Iterate on it with customers who participated in discovery
-    * Choose a customer champion
+    * Create a visual representation of a solution.
+    * Iterate on it with customers who participated in discovery.
 * Develop
-    * Deliver beta to champion
-    * Get champion on record
+    * Create a beta version of the solution.
+    * Validate that beta with customers and ship.
 * Deliver
-    * Tell the champions story
-    * Get all of a8c on board
+    * Measure changed customer behavior.
+    * Tell that story internally and externally.
