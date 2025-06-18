@@ -25,7 +25,7 @@ You will be an authority on the problems our customers face, why they hired our 
 
 ### Product Ideas
 
-This is an outline for a VIP Product ideas/feedback process that encompasses collection, evaulation, prioritization, and development.
+This is an outline for a VIP Product ideas/feedback process that encompasses collection, evaluation, prioritization, and development.
 
 1: Product ideas/feedback collection
   - Current state: Ideas/feedback live in different places
