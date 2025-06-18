@@ -43,7 +43,7 @@ To achieve all success you must be a trusted partner. You must have the trust fr
 
 We are a stand in for the customer. That doesn't mean we leave our taste at the door. We are clear when we are representing both. We trust that customers know what they want, but that knowledge is limited. We sometimes can imagine beyond their conception.
 
-We don't represent our views as the customers. We don't paint our agenda on customer requests. We do share our strong opinons, but it is always clear where customer feedback stops and our views begin.
+We don't represent our views as the customers. We don't paint our agenda on customer requests. We do share our strong opinions, but it is always clear where customer feedback stops and our views begin.
 
 ## The PM Loop
 
