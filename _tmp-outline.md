@@ -14,13 +14,14 @@ A temporary file outlining the whole handbook to work through ideas and assignme
       * Define the problem
     * Design
       * Create a visual representation of a solution
-      * Vet it with customers who participated in discovery
-      * Iterate 
+      * Iterate on it with customers who participated in discovery
       * Choose a customer champion
     * Develop
       * Deliver beta to champion
       * Get champion on record
     * Deliver
+      * Tell the champions story
+      * Get all of a8c on board
 * Expectations
   * General expectations
   * Team meetings
