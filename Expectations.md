@@ -20,7 +20,17 @@ Meetings are recorded starting after check-ins. The recording and lightly edited
 
 > I will communicate as much as possible, because it’s the oxygen of a distributed company. 
 
-Product managers at VIP are responsible for the following reporting requirements:
+#### Engineers
+
+#### Designers
+
+#### Product Marketing Managers
+
+#### Customer Success
+
+#### Systems
+
+#### Executive Leadership
 
 1. **Internal product demonstrations**: Conduct demos of upcoming releases at VIP Town Halls to build organizational alignment and excitement around new features.
 
